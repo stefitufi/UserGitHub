@@ -1,0 +1,22 @@
+<resources>
+    <!-- String general -->
+    <string name="app_name">GitHub</string>
+    <string name="conexion">No se logró traer conexión</string>
+    <string name="loading">Cargando...</string>
+
+    <!-- Transitions -->
+    <string name="transition_view">transition_view</string>
+
+    <!-- String Activity List User -->
+    <string name="name_list">Usuarios</string>
+
+    <!-- String Activity DetailUser -->
+    <string name="name_detail">Detalle usuario</string>
+    <string name="email">E-mail</string>
+    <string name="public_repos">Repositorios públicos</string>
+    <string name="public_gists">Ideas</string>
+    <string name="followers">Seguidores</string>
+    <string name="following">Siguiendo</string>
+    <string name="created_at">Fecha de creación</string>
+    <string name="updated_at">Última fecha de actualización</string>
+</resources>
